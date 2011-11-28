@@ -1,12 +1,14 @@
 a:link {
-  text-decoration:none;
+ color: blue;
+ text-decoration:none;
 }
 a:visited {
-
+ color: blue;
 }
 a:hover {
-  text-decration:underline;
+ color: red;
+ text-decration:underline;
 }
 a:active {
-
+ color: blue;
 }
