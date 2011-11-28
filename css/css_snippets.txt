@@ -1,6 +1,7 @@
 a:link {
  color: blue;
  text-decoration:none;
+ border: 0;
 }
 a:visited {
  color: blue;
@@ -8,6 +9,7 @@ a:visited {
 a:hover {
  color: red;
  text-decration:underline;
+ border: 1px dashed black;
 }
 a:active {
  color: blue;
