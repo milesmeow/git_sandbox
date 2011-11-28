@@ -56,6 +56,11 @@ body {
 }
 
 
+h1 {font-size:2em}  /* displayed at 24px */
+h2 {font-size:1.5em}  /* displayed at 18px */
+h3 {font-size:1.25em}  /* displayed at 15px */
+h4 {font-size:1em}  /* displayed at 12px */
+
 
 a:link {
   text-decoration:none;
@@ -70,6 +75,3 @@ a:active {
 
 }
 
-
-h1 {
-}
