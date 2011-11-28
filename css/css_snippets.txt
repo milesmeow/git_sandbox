@@ -63,15 +63,22 @@ h4 {font-size:1em}  /* displayed at 12px */
 
 
 a:link {
-  text-decoration:none;
+ color: blue;
+ text-decoration:none;
+ border: 0;
 }
 a:visited {
-
+ color: blue;
 }
+
+/* when mouse hovers, see box around link */
 a:hover {
-  text-decration:underline;
+ color: red;
+ text-decration:underline;
+ border: 1px dashed black;
 }
-a:active {
 
+a:active {
+ color: blue;
 }
 
