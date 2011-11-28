@@ -46,6 +46,15 @@ table {
 
 
 
+/*
+The default size for 'medium' text in all modern browsers
+is 16px. 62.5% of 16px is 10px...which is a nice round number.
+So 1em = 10px. 2em = 20px. 1.4 em = 14 px.
+*/
+body {
+  font-size:62.5%;
+}
+
 
 
 a:link {
