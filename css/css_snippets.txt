@@ -6,11 +6,14 @@ a:link {
 a:visited {
  color: blue;
 }
+
+/* when mouse hovers, see box around link */
 a:hover {
  color: red;
  text-decration:underline;
  border: 1px dashed black;
 }
+
 a:active {
  color: blue;
 }
