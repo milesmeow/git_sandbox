@@ -46,9 +46,6 @@ table {
 
 
 
-body {
-  font-size: 62.5%
-}
 
 
 a:link {
@@ -62,4 +59,8 @@ a:hover {
 }
 a:active {
 
+}
+
+
+h1 {
 }
